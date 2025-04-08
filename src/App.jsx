@@ -9,7 +9,7 @@ import Layout from "components/layout"
 import AddProject from "pages/AddProject"
 import Login from "pages/Login"
 import Register from "pages/Register"
-import PageNotFound from "components/pages/NotFound/PageNotFound.js"
+import PageNotFound from "components/pages/NotFound/PageNotFound"
 
 function App() {
 	React.useEffect(() => {
